@@ -1,6 +1,6 @@
 # Motion Simulator
 
-Motion Simulator is a program that simulates an object in one-dimensional motion. It displays graphs of the object’s position, velocity, and acceleration and allows the user to pause, play, alter, and reset the object’s motion.
+Motion Simulator is a program that simulates an object in one-dimensional motion. It displays graphs and equations of the object’s position, velocity, and acceleration. It allows the user to pause, play, alter, and reset the object’s motion.
 
 
 ## Prerequisites
