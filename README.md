@@ -3,6 +3,11 @@
 Motion Simulator is a program that simulates an object in one-dimensional motion. It displays graphs and equations of the object’s position, velocity, and acceleration. It allows the user to pause, play, alter, and reset the object’s motion.
 
 
+## Demo
+
+![simulator-demo](https://github.com/jennifer-lu/MotionSimulator/blob/master/demo.gif)
+
+
 ## Prerequisites
 
 Supported operating system versions:
