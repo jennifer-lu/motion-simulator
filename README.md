@@ -5,7 +5,7 @@ Motion Simulator is a program that simulates an object in one-dimensional motion
 
 ## Demo
 
-![simulator-demo](https://github.com/jennifer-lu/MotionSimulator/blob/master/demo.gif)
+![simulator-demo](https://github.com/jennifer-lu/motion-simulator/blob/master/demo.gif)
 
 
 ## Prerequisites
